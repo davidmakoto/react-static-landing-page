@@ -1,14 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
-import Card from './components/card.jsx';
 import Header from './components/header.jsx';
+import News from './components/news.jsx';
+import Music from './components/music.jsx';
+
 
 
 function App() {
   return (
-    <>
+    <div className='bg-dark-grey-bg'>
       <Header />
-    </>
+      <News />
+      <Music />
+    </div>
   );
 }
 

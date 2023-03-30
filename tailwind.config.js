@@ -10,6 +10,8 @@ module.exports = {
         current: 'currentColor',
         'dark-grey-bg': '#312f2f',
         'faded-lighter-grey-title': '#3c3c3c',
+        'white': '#ffffff',
+        'light-grey': '#f5f5f5',
       },
     extend: {},
   },
