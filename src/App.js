@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/header.jsx';
 import News from './components/news.jsx';
 import Music from './components/music.jsx';
+import Photos from './components/photos.jsx';
 
 
 
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <News />
       <Music />
+      <Photos />
     </div>
   );
 }
