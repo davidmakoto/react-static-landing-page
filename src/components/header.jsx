@@ -6,9 +6,9 @@ class Header extends React.Component {
   render() {
     return (
       <div className='header'>
-        <div className="flex justify-content lg:px-72 md:px-36 sm:px-0">
+        <div className="flex justify-content 2xl:px-72 xl:px-40 lg:px-24 md:px-12 sm:px-0">
           <div className="flex-1 text-center">
-            <div className="flex items-center justify-center mb-6 text-5xl font- font-bold text-faded-lighter-grey-title"> 
+            <div className="flex items-center justify-center mb-6 text-5xl font-bold text-light-grey lg:tracking-[1em] md:tracking-[.5em] sm:tracking-[.25em] uppercase">
               Lea Michele
             </div>
             <div className="flex nav-bar text-light-grey" >

@@ -12,11 +12,11 @@ class Music extends React.Component {
             </h1>
         </div>
         <div className='flex justify-evenly'>
-            <div className='album-places'>
+            <div className='album-places m-auto'>
                 <img className="justify-center" src={PlacesAlbumSquare} alt={"Image of Lea Michele from the shoulders up, facing sideways with her eyes closed with a slight breeze"} />
                 <div className='flex justify-center py-8 text-2xl text-white'>
                 <p className='text-white py-1 uppercase'>
-                    <a href="url">ITUNES </a>
+                    <a href="url">itunes </a>
                     |
                     <a href="url"> spotify </a>
                     |
@@ -26,11 +26,11 @@ class Music extends React.Component {
                 </p>
                 </div>
             </div>
-            <div className='album-louder'>
+            <div className='album-louder m-auto'>
                 <img src={LouderAlbumCoverSquare} alt={"Image of Lea Michele from the shoulders up, facing sideways with her eyes closed with a slight breeze"} />
                 <div className='flex justify-center py-8 text-2xl text-white'>
                 <p className='text-white py-1 uppercase'>
-                    <a href="url">ITUNES </a>
+                    <a href="url">itunes </a>
                     |
                     <a href="url"> spotify </a>
                     |

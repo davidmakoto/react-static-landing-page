@@ -30,7 +30,7 @@ class Photos extends React.Component {
                 Photos
             </h1>
         </div>
-        <div class="container flex flex-wrap mx-auto">
+        <div class="container flex flex-wrap mx-12 md:mx-auto">
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
                 <img className='object-cover object-center h-full w-full'
                     src={p1}
@@ -42,92 +42,92 @@ class Photos extends React.Component {
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p3}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p4}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p5}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p6}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p7}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p8}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p9}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p10}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p11}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p12}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p13}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p14}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p15}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p16}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p17}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p18}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p19}
                     alt="image"/>
             </div>
             <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
-                <img className='object-cover object-center h-full w-full' 
+                <img className='object-cover object-center h-full w-full'
                 src={p20}
                     alt="image"/>
             </div>
