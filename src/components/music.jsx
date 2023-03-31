@@ -7,7 +7,7 @@ class Music extends React.Component {
     return (
       <div className="music text-center text-white">
         <div className="flex justify-center py-8 text-5xl font-bold">
-            <h1 className='text-white py-1'>
+            <h1 id="music" className='text-white py-1'>
                 Music
             </h1>
         </div>

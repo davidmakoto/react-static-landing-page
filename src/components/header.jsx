@@ -13,22 +13,22 @@ class Header extends React.Component {
             </div>
             <div className="flex nav-bar text-light-grey" >
               <div className="basis-full">
-                <a href="url">NEWS</a>
+                <a href="#news">NEWS</a>
               </div>
               <div className="basis-full">
-                <a href="url">MUSIC</a>
+                <a href="#music">MUSIC</a>
               </div>
               <div className="basis-full">
-                <a href="url">VIDEOS</a>
+                <a href="#videos">VIDEOS</a>
               </div>
               <div className="basis-full">
-                <a href="url">LIVE</a>
+                <a href="#live">LIVE</a>
               </div>
               <div className="basis-full">
-                <a href="url">PHOTOS</a>
+                <a href="#photos">PHOTOS</a>
               </div>
               <div className="basis-full">
-                <a href="url">CONNECT</a>
+                <a href="#connect">CONNECT</a>
               </div>
               <div className="basis-full">
                 <a>STORE</a>

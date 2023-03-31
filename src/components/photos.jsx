@@ -26,7 +26,7 @@ class Photos extends React.Component {
     return (
       <div className="photos text-center text-white">
         <div className="flex justify-center py-8 text-5xl font-bold text-white">
-            <h1 className='text-white py-1'>
+            <h1 id="photos" className='text-white py-1'>
                 Photos
             </h1>
         </div>
