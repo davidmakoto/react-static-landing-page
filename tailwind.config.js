@@ -13,7 +13,11 @@ module.exports = {
         'white': '#ffffff',
         'light-grey': '#f5f5f5',
       },
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sans': ['Roboto', 'sans-serif'],
+      }
+    },
   },
   plugins: [require("tw-elements/dist/plugin")]
 }
