@@ -16,25 +16,25 @@ class Connect extends React.Component {
 
 
 
-            <div className="flex justify-content px-[40%]">
+            <div className="flex justify-content px-[30%] md:px-[40%]">
                 <div className="flex-1 text-center">
                     <div className="flex socials text-light-grey" >
-                        <div className="basis-full scale-50">
+                        <div className="basis-full scale-250 sm:scale-50 px-1">
                             <a target="_blank" href="https://www.facebook.com/leamichele">
                                 <img src={FacebookIcon}
                                 alt="Facebook icon leading to Lea Michele's facebook" /></a>
                         </div>
-                        <div className="basis-full scale-50">
+                        <div className="basis-full scale-250 sm:scale-50 px-1">
                             <a target="_blank" href="https://twitter.com/msleamichel?lang=en">
                                 <img src={TwitterIcon}
                                 alt="Twitter icon leading to Lea Michele's Twitter" /></a>
                         </div>
-                        <div className="basis-full scale-50">
+                        <div className="basis-full scale-250 sm:scale-50 px-1">
                             <a target="_blank" href="https://www.instagram.com/leamichele/?hl=en">
                                 <img src={InstagramIcon}
                                 alt="Instagram icon leading to Lea Michele's Instagram" /></a>
                         </div>
-                        <div className="basis-full scale-50">
+                        <div className="basis-full scale-250 sm:scale-50 px-1">
                             <a target="_blank" href="https://www.snapchat.com/add/msleamichele">
                                 <img src={SnapchatIcon}
                                 alt="Snapchat icon leading to Lea Michele's Snapchat" /></a>

@@ -11,7 +11,7 @@ class Header extends React.Component {
             <div className="flex items-center justify-center mb-6 text-5xl font-bold text-light-grey lg:tracking-[1em] md:tracking-[.5em] sm:tracking-[.25em] uppercase">
               Lea Michele
             </div>
-            <div className="flex nav-bar text-light-grey" >
+            <div className="flex-wrap sm:flex-nowrap flex nav-bar text-light-grey" >
               <div className="basis-full">
                 <a href="#news">NEWS</a>
               </div>
