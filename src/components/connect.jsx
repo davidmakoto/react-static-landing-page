@@ -53,7 +53,7 @@ class Connect extends React.Component {
                         </label>
                         <br></br>
                         <label>
-                            <select className='p-2 my-2 border border-white placeholder-white bg-dark-grey-bg' name="country-region" id="location" placeholder="SELECT COUNTRY / REGION">
+                            <select className='py-2 my-2 px-5 border border-white placeholder-white bg-dark-grey-bg' name="country-region" id="location" placeholder="SELECT COUNTRY / REGION">
                                 <option defaultValue={true} value="select-country-region">SELECT COUNTRY / REGION</option>
                                 <option value="united-states">United States</option>
                                 <option value="mexico">Mexico</option>
@@ -65,7 +65,7 @@ class Connect extends React.Component {
                             <input className='p-1 my-2 px-7 border border-white placeholder-white bg-dark-grey-bg' type="numeric" name="name" placeholder="ZIP CODE"  />
                         </label>
                         <br></br>
-                        <button className='p-2 my-2 border border-white text-black font-bold bg-light-grey' type="submit" value="Submit">Submit</button>
+                        <button className='p-2 my-2 px-3 border border-white text-black font-bold bg-light-grey' type="submit" value="Submit">Submit</button>
                     </form>
                 </div>
       </div>
