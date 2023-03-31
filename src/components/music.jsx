@@ -7,7 +7,7 @@ class Music extends React.Component {
     return (
       <div className="music text-center text-white">
         <div className="flex justify-center py-8 text-5xl font-bold">
-            <h1 id="music" className='text-white py-1'>
+            <h1 id="music" className='text-white py-1 uppercase'>
                 Music
             </h1>
         </div>
@@ -42,8 +42,6 @@ class Music extends React.Component {
             </div>
 
         </div>
-
-        
       </div>
     );
 }

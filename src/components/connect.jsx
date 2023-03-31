@@ -9,7 +9,7 @@ class Connect extends React.Component {
     return (
         <div className="connect text-center text-white">
             <div className="flex justify-center py-8 text-5xl font-bold text-white">
-                <h1 id="connect" className='text-white py-1'>
+                <h1 id="connect" className='text-white py-1 uppercase'>
                     Connect
                 </h1>
             </div>
@@ -45,15 +45,15 @@ class Connect extends React.Component {
                 <div className="contact-form flex-1 text-center ">
                     <form>
                         <label>
-                            <input className='p-1 my-2 px-7 border border-white placeholder-white bg-dark-grey-bg' type="text" name="name" placeholder="NAME"  />
+                            <input className='text-center p-1 my-2 px-14 border border-white placeholder-white bg-dark-grey-bg' type="text" name="name" placeholder="NAME"  />
                         </label>
                         <br></br>
                         <label>
-                            <input className='p-1 my-2 px-7 border border-white placeholder-white bg-dark-grey-bg' type="text" name="name" placeholder="EMAIL ADDRESS"  />
+                            <input className='text-center  p-1 my-2 px-14 border border-white placeholder-white bg-dark-grey-bg' type="text" name="name" placeholder="EMAIL ADDRESS"  />
                         </label>
                         <br></br>
                         <label>
-                            <select className='py-2 my-2 px-5 border border-white placeholder-white bg-dark-grey-bg' name="country-region" id="location" placeholder="SELECT COUNTRY / REGION">
+                            <select className='text-center  py-2 my-2 px-5 border border-white placeholder-white bg-dark-grey-bg' name="country-region" id="location" placeholder="SELECT COUNTRY / REGION">
                                 <option defaultValue={true} value="select-country-region">SELECT COUNTRY / REGION</option>
                                 <option value="united-states">United States</option>
                                 <option value="mexico">Mexico</option>
@@ -62,10 +62,10 @@ class Connect extends React.Component {
                         </label>
                         <br></br>
                         <label>
-                            <input className='p-1 my-2 px-7 border border-white placeholder-white bg-dark-grey-bg' type="numeric" name="name" placeholder="ZIP CODE"  />
+                            <input className='text-center p-1 my-2 px-14 border border-white placeholder-white bg-dark-grey-bg' type="numeric" name="name" placeholder="ZIP CODE"  />
                         </label>
                         <br></br>
-                        <button className='p-2 my-2 px-3 border border-white text-black font-bold bg-light-grey' type="submit" value="Submit">Submit</button>
+                        <button className='text-center uppercase p-2 my-2 px-3 border border-white text-black font-semi-bold bg-light-grey' type="submit" value="Submit">Submit</button>
                     </form>
                 </div>
       </div>
