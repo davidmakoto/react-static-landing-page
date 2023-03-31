@@ -12,6 +12,7 @@ module.exports = {
         'faded-lighter-grey-title': '#3c3c3c',
         'white': '#ffffff',
         'light-grey': '#f5f5f5',
+        'black': '#000000',
       },
     extend: {
       fontFamily: {
