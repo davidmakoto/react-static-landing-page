@@ -31,7 +31,7 @@ class Photos extends React.Component {
             </h1>
         </div>
         <div className='flex justify-center'>
-            <div class="container flex items-center justify-center flex-wrap mx-12 md:mx-auto">
+            <div class="container flex flex-wrap mx-12 md:mx-auto">
                 <div class="w-full p-2 rounded lg:w-1/5 md:w-1/2">
                     <img className='object-cover object-center h-full w-full'
                         src={p1}
