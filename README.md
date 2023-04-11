@@ -2,8 +2,8 @@
 
 ## Prompt
 * Common job task of making a landing page with 4-5 day turnaround
-"
-* You can either host the page yourself or send us a zip of the site files.
+
+* "You can either host the page yourself or send us a zip of the site files.
 * Make a working HTML page using [actual link obscured: screenshot of photoshop file below]. 
 * Accommodate for all standard desktop/mobile screen resolutions.
 * You can hard code everything
